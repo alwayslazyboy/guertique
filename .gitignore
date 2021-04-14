@@ -1,0 +1,5 @@
+# blocklist
+node_modules
+*~
+*.swp
+*.swo
